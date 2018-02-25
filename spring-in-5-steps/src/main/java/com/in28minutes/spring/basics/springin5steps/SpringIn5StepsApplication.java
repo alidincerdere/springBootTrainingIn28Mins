@@ -9,7 +9,7 @@ public class SpringIn5StepsApplication {
 
 	// what are the beans?
 	// what are the dependencies of a bean
-	// Where to search for beans
+	// Where to search for beans => no need
 
 	public static void main(String[] args) {
 
